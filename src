@@ -1,0 +1,20 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		cadeia nome
+		inteiro matricula
+		para(matricula=1; matricula<=99999; matricula++)
+		{
+			escreva("\n Digite seu nome : ")
+		leia(nome)
+			escreva("\n Seu nome é : ",nome,"\n Sua matrícula é : ",matricula)
+		}
+	}
+}
+		
+
+		
+
+	

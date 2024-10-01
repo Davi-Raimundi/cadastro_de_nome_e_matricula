@@ -1,0 +1,8 @@
+Cadastro de Nome e Matrícula
+
+Este projeto consiste em um programa que solicita ao usuário que insira seu nome e exibe esse nome juntamente com um número de matrícula gerado automaticamente. O número da matrícula é incrementado de 1 a 99.999.
+
+Funcionalidades:
+
+O usuário insere seu nome.
+O programa exibe o nome e a matrícula correspondente.
